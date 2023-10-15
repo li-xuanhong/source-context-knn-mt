@@ -1,2 +1,2 @@
 # source-context-knn-mt
-Coming soon.
+Due to my busy schedule with PhD applications, the code will be released shortly.
