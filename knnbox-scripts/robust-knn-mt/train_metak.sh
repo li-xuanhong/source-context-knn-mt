@@ -2,7 +2,7 @@ export OMP_WAIT_POLICY=PASSIVE
 
 # for it dataset, MAX_K=16
 # for medical dataset, MAX_K=16
-# for koran dataset, MAX_K=8, Might need to change line 186 at knnbox/combiner/robust_combiner.py to "tempe = torch.sigmoid(lambda_logit[:, :, 1:2]) * 0.2"
+# for koran dataset, MAX_K=8, might need to change line 186 at knnbox/combiner/robust_combiner.py to "tempe = torch.sigmoid(lambda_logit[:, :, 1:2]) * 0.2"
 # for law dataset, MAX_K=8
 
 PROJECT_PATH=$( cd -- "$( dirname -- "$ BASH_SOURCE[0]}" )" &> /dev/null && pwd )/../..

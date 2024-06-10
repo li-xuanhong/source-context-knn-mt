@@ -46,7 +46,7 @@ cd knnbox-scripts/vanilla-knn-mt
 bash build_datastore.sh
 ```
 
-## Adaptive kNN-MT + ours
+## Adaptive kNN-MT + Ours
 Use the following commands to train and infer using the "Adaptive kNN-MT + Ours" method described in the paper:
 
 ```bash
@@ -56,7 +56,7 @@ bash train_metak.sh
 bash inference.sh
 ```
 
-## Robust kNN-MT + ours
+## Robust kNN-MT + Ours
 Use the following commands to train and infer using the "Robust kNN-MT + Ours" method described in the paper:
 
 ```bash
