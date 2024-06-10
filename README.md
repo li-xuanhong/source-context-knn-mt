@@ -22,7 +22,7 @@ cd source-context-knn-mt
 pip install --editable ./
 ```
 
-Installing faiss with the following commands:
+Installing faiss with the following commands (only choose one):
 
 ```bash
 # CPU version only:
