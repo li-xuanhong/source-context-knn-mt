@@ -2,7 +2,7 @@
 # Source-Context-KNN-MT
 
 ## Introduction
-This repository includes the implementation of the paper "Revisiting Source Context in Nearest Neighbor Machine Translation" (EMNLP 2023).The code is implemented based on [kNN-box](https://github.com/NJUNLP/knn-box), and we are very grateful to the developers of kNN-box.
+This repository includes the implementation of the paper "Revisiting Source Context in Nearest Neighbor Machine Translation" (EMNLP 2023). The code is implemented based on [kNN-box](https://github.com/NJUNLP/knn-box), and we are very grateful to the developers of kNN-box.
 
 ## Requirements
 Following the settings of kNN-box, below are the environment requirements:
